@@ -2,15 +2,12 @@
 description: "Learn about Payhawk's products and features and how we support businesses with spend management and automated finance."
 icon: house
 layout:
-  width: wide
   cover:
     visible: false
   title:
     visible: true
   description:
     visible: true
-  tableOfContents:
-    visible: false
   outline:
     visible: false
   pagination:

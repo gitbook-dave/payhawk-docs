@@ -2,15 +2,12 @@
 description: "Developer API for integration with Payhawk — manage expenses, cards, users, and more."
 icon: code
 layout:
-  width: wide
   cover:
     visible: false
   title:
     visible: true
   description:
     visible: true
-  tableOfContents:
-    visible: false
   outline:
     visible: false
   pagination:
